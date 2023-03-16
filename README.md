@@ -1,9 +1,13 @@
-# California housing pyspark
 
-Это учебный проект, выполненный в рамках курса Yandex.Practicum Data Science Plus
+# Системы обработки больших данных
 
-Целью данной работы было знакомство с pyspark
+Это учебный проект, созданный в рамках курса Яндекс Практикум Data Science Plus.
 
-В проекте использован датасет California Housing Prices
+Использован датасет [California Housing Prices](https://www.kaggle.com/code/bhavinmoriya/introduction-to-pyspark/input)
 
-https://www.kaggle.com/code/bhavinmoriya/introduction-to-pyspark/input
+### Цель проекта:
+- предсказание медианной стоимости дома в жилом массиве 
+
+### Задачи:
+- знакомство с библиотекой pyspark
+- обучение модели линейной регресии
